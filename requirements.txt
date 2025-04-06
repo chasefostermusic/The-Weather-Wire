@@ -1,0 +1,4 @@
+requests==2.31.0
+python-osc==1.8.1
+py2app==0.28.7
+typing_extensions>=4.8.0 
